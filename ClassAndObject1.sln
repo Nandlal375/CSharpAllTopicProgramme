@@ -105,6 +105,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ienumrable_Ienumrator_IQuer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonClass", "SingletonClass\SingletonClass.csproj", "{5F4A55E4-9D38-43E8-8A60-A1FFB0F522AD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLID_Principle", "SOLID_Principle\SOLID_Principle.csproj", "{68A5CE3D-FAF2-4726-B78C-9C13DAAEC2A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -315,6 +317,10 @@ Global
 		{5F4A55E4-9D38-43E8-8A60-A1FFB0F522AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F4A55E4-9D38-43E8-8A60-A1FFB0F522AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F4A55E4-9D38-43E8-8A60-A1FFB0F522AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68A5CE3D-FAF2-4726-B78C-9C13DAAEC2A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68A5CE3D-FAF2-4726-B78C-9C13DAAEC2A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68A5CE3D-FAF2-4726-B78C-9C13DAAEC2A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68A5CE3D-FAF2-4726-B78C-9C13DAAEC2A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
